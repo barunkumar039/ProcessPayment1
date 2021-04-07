@@ -1,0 +1,11 @@
+{
+  "ResponseMessage": {
+    "Values": {
+      "Success": "Payment is processed!",
+      "NoData": "No Record Found!",
+      "BadRequest": "The request is invalid",
+      "InternalServer": "Any error: 500 internal",
+      "ProcessedFaield": "The request should be validated before processed"
+    }
+  }
+}  
